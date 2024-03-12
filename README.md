@@ -19,5 +19,3 @@ This project aimed at advancing personalized healthcare through real-time postur
 ## Images
 ![Screenshot (735)](https://github.com/nikitansg/-Deep-Learning-based-Pain-Intensity-Level-Estimation-using-Facial-Expressions-and-Hand-Gestures/assets/138892560/5d826244-6882-4740-bb4a-f0a915c1da02)
 ![2024-02-27](https://github.com/nikitansg/-Deep-Learning-based-Pain-Intensity-Level-Estimation-using-Facial-Expressions-and-Hand-Gestures/assets/138892560/f10cc8d5-72f2-4da8-9c74-b0db456068ca)
-![Screenshot (750)](https://github.com/nikitansg/-Deep-Learning-based-Pain-Intensity-Level-Estimation-using-Facial-Expressions-and-Hand-Gestures/assets/138892560/d643bebc-3794-41d0-91c5-3a2eb043b201)
-![Screenshot (759)](https://github.com/nikitansg/-Deep-Learning-based-Pain-Intensity-Level-Estimation-using-Facial-Expressions-and-Hand-Gestures/assets/138892560/b2c5d714-3d77-413c-8d3f-d1795901b28d)
